@@ -6,6 +6,10 @@
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
+    <div class="container bg-black">
+      aaaaaaaaa
+      <i class="la la-user"></i>
+    </div>
   </div>
 </template>
 
